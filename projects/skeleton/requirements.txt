@@ -1,0 +1,4 @@
+# requirements
+
+distribute # installs Setuptools
+nose # unittest; now recommends pytest
